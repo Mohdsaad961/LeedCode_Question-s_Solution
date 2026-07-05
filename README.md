@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
