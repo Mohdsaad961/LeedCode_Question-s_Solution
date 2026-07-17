@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/0066-plus-one/) | Easy |
@@ -37,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/master/0021-merge-two-sorted-lists) |
 ## Two Pointers
 | Problem Name | Difficulty |
