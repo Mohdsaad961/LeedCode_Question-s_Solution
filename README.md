@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/0066-plus-one/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/0066-plus-one/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/0035-search-insert-position/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 <!---LeetCode Topics End-->
