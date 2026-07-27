@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/0066-plus-one/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,4 +66,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
