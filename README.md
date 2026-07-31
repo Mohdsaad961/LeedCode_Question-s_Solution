@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/master/0013-roman-to-integer) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/master/0058-length-of-last-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -78,9 +81,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 <!---LeetCode Topics End-->
