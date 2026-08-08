@@ -7,9 +7,9 @@ class Solution:
 
         for i in range(len(nums)):
             if nums[i] != 0:
-                nums[write_index], nums[i] = nums[i], nums[write_index]
-        #         nums[write_index] = nums[i]
+                # nums[write_index], nums[i] = nums[i], nums[write_index]
+                nums[write_index] = nums[i]
                 write_index += 1
 
-        # for i in range(write_index, len(nums)):
-        #     nums[i] = 0
+        for i in range(write_index, len(nums)):
+            nums[i] = 0
