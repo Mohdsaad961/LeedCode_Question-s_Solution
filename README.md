@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/0066-plus-one/) | Easy |
+| [0283-move-zeroes](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/0283-move-zeroes/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3731-find-missing-elements](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/3731-find-missing-elements/) | Easy |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/0125-valid-palindrome/) | Easy |
+| [0283-move-zeroes](https://github.com/Mohdsaad961/LeedCode_Question-s_Solution/tree/main/0283-move-zeroes/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
